@@ -17,26 +17,40 @@ A heatmap analysis reveals the correlation between upvotes (points) and comments
 🛠️ **Tech Stack**
 
 Python --> Core programming language
+
 Pandas --> Data loading, cleaning, and transformation
+
 Matplotlib --> Base plotting and chart rendering
-Seaborn --> Statistical visualizations 
+
+Seaborn --> Statistical visualizations
+
 Datetime --> Timestamp parsing and time-based analysis
 
 📊 **Visualizations Included**
 
 Pie Chart — Distribution of post types (Ask HN, Show HN, Other)
+
 Bar Chart — Average comments: Ask HN vs Show HN
+
 Bar Chart — Average Ask HN comments by hour of day
+
 Line Chart — Engagement trend across all hours of the day
+
 Line Chart — Top 5 best hours to post Ask HN
+
 Heatmap — Correlation between comments, points, and posting hour
+
 Bar Chart — Average Ask HN comments by day of the week
 
 🗂️ **Project Structure**
 
 hacker-news-analysis/
+
 │
+
 ├── hacker_news.ipynb       # Main Jupyter Notebook
+
 ├── hacker_news.csv         # Raw dataset (input)
+
 └── Hacker.csv              # Cleaned dataset (output)
 
