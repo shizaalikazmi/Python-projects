@@ -45,9 +45,7 @@ Bar Chart — Average Ask HN comments by day of the week
 🗂️ **Project Structure**
 
 hacker-news-analysis/
-
 │
-
 ├── hacker_news.ipynb       # Main Jupyter Notebook
 
 ├── hacker_news.csv         # Raw dataset (input)
